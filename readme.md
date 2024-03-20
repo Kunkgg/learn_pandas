@@ -49,6 +49,8 @@
 - [Youtube: Pandas & Python for Data Analysis by Example](https://www.youtube.com/watch?v=gtjxAH8uaP0&t=14438s)
 - [b站: Pandas数据分析从入门到实战](https://www.bilibili.com/video/BV1UJ411A7Fs/?share_source=copy_web&vd_source=5c8729076441eed586be2fd2d1d6f658)
 https://gitee.com/p196025/ant-learn-pandas
+https://github.com/TirendazAcademy/PANDAS-TUTORIAL
+https://github.com/justmarkham/pandas-videos
 
 
 ## 10. 初学 pandas 的一些问题
@@ -70,3 +72,7 @@ https://gitee.com/p196025/ant-learn-pandas
 `pandas` 是基于`numpy`构建的，`numpy`是用`C`语言编写的，所以`pandas`的速度非常快。
 
 ### 对比不同操作方式 pandas 的运行速度差异
+
+https://realpython.com/fast-flexible-pandas/
+
+https://www.youtube.com/watch?v=SAFmrTnEHLg
